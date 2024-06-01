@@ -1,4 +1,3 @@
-## Hi there 👋，I'm luseYang
 <div id="title" align=center>
   
   <img src="https://github-readme-stats.vercel.app/api?username=luseYang&show_icons=true&theme=cobalt" alt="GitHub Stats">
