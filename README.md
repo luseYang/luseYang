@@ -1,5 +1,5 @@
 # You're always welcome
-![](https://github.com/luseYang/luseYang/blob/main/life.png)
+
 
 <br> <!-- 这里插入一个空行 -->
 
@@ -7,6 +7,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=luseYang&show_icons=true&theme=calm_pink" alt="GitHub Stats">
   
   <br> <!-- -->
+
+  ![](https://github.com/luseYang/luseYang/blob/main/life.png)
   
   <img src="https://profile-counter.glitch.me/luseYang/count.svg" alt="Visitor Count">
   
