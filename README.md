@@ -1,5 +1,5 @@
 # You're always welcome
-![](https://github.com/luseYang/luseYang/blob/main/preview3.gif)
+![](https://github.com/luseYang/luseYang/blob/main/life.png)
 
 <br> <!-- 这里插入一个空行 -->
 
