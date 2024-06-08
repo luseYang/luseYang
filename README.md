@@ -1,5 +1,7 @@
 # You're always welcome
 
+<span style="color:lightblue;">Think twice, code once。</span>
+
 
 <br> <!-- 这里插入一个空行 -->
 
