@@ -1,4 +1,4 @@
-# Think twice, code once
+# THINK TWICE, CODE ONCE
 
 <br> <!-- 这里插入一个空行 -->
 
