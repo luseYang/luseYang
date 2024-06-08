@@ -4,7 +4,7 @@
 <br> <!-- 这里插入一个空行 -->
 
 <div id="title" align=center>
-  <img src="https://github-readme-stats.vercel.app/api?username=luseYang&show_icons=true&theme=gruvbox" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=luseYang&show_icons=true&theme=calm_pink" alt="GitHub Stats">
   
   <br> <!-- -->
   
@@ -16,6 +16,6 @@
 
 
 <div align=right>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luseYang&layout=compact&theme=gruvbox" alt="Top Langs">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luseYang&layout=compact&theme=calm_pink" alt="Top Langs">
 </div>
 
